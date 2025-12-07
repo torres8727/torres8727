@@ -1,6 +1,6 @@
 # Olá, eu sou o Fernando! 👋
 
-Sou desenvolvedor na [**Nubank**](https://nubank.com.br/) 💜 — ajudando a construir soluções financeiras que facilitam a vida de milhões de pessoas na América Latina.
+Sou desenvolvedor **sênior** na [**Nubank**](https://nubank.com.br/) 💜 — ajudando a construir soluções financeiras que facilitam a vida de milhões de pessoas na América Latina.
 
 ## 🚀 No que estou trabalhando
 
